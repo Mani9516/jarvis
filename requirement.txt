@@ -1,0 +1,14 @@
+1- pip install pyjokes
+
+2- pip install wikipedia
+
+3- pip install pyttsx3
+
+4- pip install SpeechRecognition  
+
+5- pip install openai
+
+6- pip install streamlit
+
+[ ANOTHER VERSION OF 4 INSTALLATIONS ]
+[ ? - pip install speech_recognition ]
