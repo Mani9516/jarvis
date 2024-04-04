@@ -12,6 +12,7 @@
 
 7- pip install webbrowser
 
+8- pip install list
 
 [ ANOTHER VERSION OF 4 INSTALLATIONS ]
 [ ? - pip install speech_recognition ]
