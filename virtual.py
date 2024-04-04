@@ -72,8 +72,7 @@ def recognize_speech():
 def main():
     st.markdown("<h1 style='text-align: center; color: white;'>J.A.R.V.I.S</h1>", unsafe_allow_html=True)
 
-    st.image("C:\Users\mani chourasiya\Downloads\gso7gr28.png",
-             use_column_width=None)
+    st.image("C:\\Users\\mani chourasiya\\Downloads\\gso7gr28.png", use_column_width=None)
 
     # Create the input form
     with st.form("message-form"):
@@ -97,3 +96,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
