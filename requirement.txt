@@ -1,4 +1,4 @@
-1- pip install pyjokes
+1- pip install datetime
 
 2- pip install wikipedia
 
@@ -6,9 +6,12 @@
 
 4- pip install SpeechRecognition  
 
-5- pip install openai
+5- pip install os
 
 6- pip install streamlit
+
+7- pip install webbrowser
+
 
 [ ANOTHER VERSION OF 4 INSTALLATIONS ]
 [ ? - pip install speech_recognition ]
